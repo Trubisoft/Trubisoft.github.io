@@ -3,7 +3,6 @@ layout: post
 title:  "Thoughts on originality"
 date:   2021-02-01
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: false
 tag:
 - jekyll 
 - moon

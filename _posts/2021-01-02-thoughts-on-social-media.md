@@ -3,7 +3,7 @@ layout: post
 title:  "Thoughts on social media"
 date:   2021-01-02
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
+project: false
 tag:
 - jekyll 
 - moon

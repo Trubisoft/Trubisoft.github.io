@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Thoughts on social media"
-date:   2021-02-02
+title:  "Thoughts on originality"
+date:   2021-02-01
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:

@@ -14,7 +14,7 @@ My name is Katka, welcome to my personal page  😸
 
 I currently work as a software engineer for a European telco company. If you'd like to read more about me, keep reading. If you're interested in checking out some of my random posts click [here](https://trubisoft.github.io/posts/). My free time programming projects are listed and described [here](https://trubisoft.github.io/projects/).
 
-I also do a bit of independent blogging & share some of photo/video work - [here](http://#/). 
+I also do a bit of independent blogging here and there & share some of photo/video work on [this](http://#/) page. 
 
 ## Brief CV
 

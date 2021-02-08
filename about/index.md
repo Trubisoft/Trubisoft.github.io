@@ -24,7 +24,7 @@ I've worked on several positions in the fields of data science, data analysis an
 
 ### Education
 
-Bachelor's & Master's Degree in Computer science - Slovak University of Technology | Faculty of information and information technologies
+Bachelor's & Master's Degree in Computer science - Slovak University of Technology, Faculty of information and information technologies ([FIIT STU](http://www.fiit.stuba.sk))
 
 
 ## Few pictures ...

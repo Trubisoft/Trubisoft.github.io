@@ -9,9 +9,12 @@ comments: false
 <center>Welcome to trubisoft's page!</center>
 
 ## About Trubisoft
-* Python 3 programming
-* Chrome extensions
-* pip modules
+
+My name is Katka, welcome to my personal page  😸
+
+I currently work as a software engineer for a European telco company. If you'd like to read more about me, keep reading. If you're interested in checking out some of my random posts click [here](https://trubisoft.github.io/posts/). My free time programming projects are listed and described [here](https://trubisoft.github.io/projects/).
+
+I also do a bit of independent blogging & share some of photo/video work - [here](http://#/). 
 
 
 ## Preview
@@ -24,8 +27,8 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## Page theme
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Courtesy of taylantatli. [More information here](http://taylantatli.me/Moon/moon-theme/)
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+... or [install Moon](https://github.com/TaylanTatli/Moon){: .btn} 

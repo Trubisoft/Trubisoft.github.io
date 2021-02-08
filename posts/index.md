@@ -5,4 +5,3 @@ excerpt: "A List of Posts"
 comments: false
 ---
 
-That's all folks....

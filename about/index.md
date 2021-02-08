@@ -26,6 +26,9 @@ I've worked on several positions in the fields of data science, data analysis an
 
 Bachelor's & Master's Degree in Computer science - Slovak University of Technology, Faculty of information and information technologies ([FIIT STU](http://www.fiit.stuba.sk))
 
+## More 
+
+I love hobby photography. I've created my Flickr account in early 2009. I also love pets. I have three cats and a dog and some birds. My favorite book is The interpretation of dreams by Sigmund Freud. I created my first website at the age of approximately 12. I absolutely loved using the legendary Microsoft Frontpage and Adobe Illustrator. It's just not the same today! I remember spending days in front of my PC often forgetting to eat. Those websites were about my first pets: our old dog († 2008), cottage cats and my pet rabbit! Perhaps I'd love to do webdesign some day again.
 
 ## Few pictures ...
 
